@@ -102,7 +102,7 @@ Pelo terminal vá até a raiz de seu projeto e lá execute :
 composer require nfephp-org/nfephp
 ``` 
 Isso fará com que o SEU arquivo composer.json seja acrescido da dependência da API.
-A API será baixada e colocada na pasta "vendor" e o arquivo autoload.php sejá atualizado.
+A API será baixada e colocada na pasta "vendor" e o arquivo autoload.php seja atualizado.
 
 
 ## Condicionantes
@@ -128,10 +128,10 @@ A API permite que um programa emissor de NFe se comunique com a SEFAZ. A API nã
 * Apache: <http://httpd.apache.org/>
 * PHP 5.5+: <http://php.net>
 * Bibliotecas de terceiros
- * FPDF: Provisóriamente usada para gerar os documentos em PDF. Veja <http://www.fpdf.org/>.Deverá ser substituida pela classe ZendPdf (devido ao tendimento dos padrões PSR e ser mais ativamente mantida e distribuida via composer.
- * zendframework/zend-mail (v.2.x) Usada para envio dos emails aos destinátarios dos docuemntos fiscais eletrônicos.
+ * FPDF: Provisoriamente usada para gerar os documentos em PDF. Veja <http://www.fpdf.org/>.Deverá ser substituida pela classe ZendPdf (devido ao tendimento dos padrões PSR e ser mais ativamente mantida e distribuida via composer.
+ * zendframework/zend-mail (v.2.x) Usada para envio dos emails aos destinatarios dos documentos fiscais eletrônicos.
  * zendframework/zend-barcode (v.2.x) Usada para gerar os codigos de barras 128 presente nos documentos fiscais em PDF.
- * soundasleep/html2text (v.0.2) Usada para converter as mensagens Htlm dos emails em seu equivalente em texto puro. Usada na classe de envio dos emails.
+ * soundasleep/html2text (v.0.2) Usada para converter as mensagens HTML dos emails em seu equivalente em texto puro. Usada na classe de envio dos emails.
  * endroid/qrcode (v.1.x) Usada para gerar o QRCode impresso nas NFCe
 * Extensões PHP
  * cURL: Normalmente já vem habilitado com o PHP 5.3+. Veja <http://br2.php.net/manual/book.curl.php> e <http://curl.haxx.se/>.
