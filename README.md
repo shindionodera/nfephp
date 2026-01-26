@@ -15,7 +15,7 @@ Para começar veja [nossas páginas Wiki](https://github.com/nfephp-org/nfephp/w
 
 Não deixe de se cadastrar no [grupo de discussão do NFePHP](http://groups.google.com/group/nfephp)!
 
-## PULL REQUESTS (REPOSIÓRIO nfephp tem sua VERSÃO CONGELADA, não será mais atualizada)
+## PULL REQUESTS (REPOSITÓRIO nfephp tem sua VERSÃO CONGELADA, não será mais atualizada)
 **Srs. neste repositório somente serão aceitos "PULL REQUESTS" relativos a BUGS e correções derivadas de mudanças promovidas pelas SEFAZ.**
 
 Não mais serão aceitas alterações, melhorias no código ou inclusões de novos recursos ou de novos serviços, todas essas melhorias deverão ser encaminhadas para o novo repositório SPED-XXX.
